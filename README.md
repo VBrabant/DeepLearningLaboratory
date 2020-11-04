@@ -14,8 +14,8 @@ You can choose a 1-dimension function to fit. You can generate training data cho
 
 Here are pictures to illustrate an example.
 
-**First review :**
-![](pictures/SelfAttentionH3_5.png)
+**1/2**
+![](gifs/DLLgif1.gif)
 
-**Second review :**
-![](pictures/SelfAttentionH3_3.png)
+**2/2**
+![](gifs/DLLgif2.gif)
