@@ -12,15 +12,6 @@ import torch
 
 from DLL_training import Training
 
-# colors = {
-#     'background': "#282b38",
-#     'text': '#fec036', 
-#     'statslider-lab' : "#18df9d",
-#     'statslider-mark' : "#6d6f6f",
-#     'markers' : '#e5c472',
-#     'scat-marker-line' : 'white',
-# }
-
 num_layer_max = 5
 
 X = []
