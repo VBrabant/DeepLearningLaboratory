@@ -16,8 +16,6 @@ Here are pictures to illustrate an example.
 
 
 <p align="center">
-  **1/2**
-  <img width="460" height="300" src="gifs/DLLgif1.gif">
-  **2/2**
+  <img width="800" height="400" src="gifs/DLLgif1.gif">
   <img width="460" height="300" src="gifs/DLLgif2.gif">
 </p>
