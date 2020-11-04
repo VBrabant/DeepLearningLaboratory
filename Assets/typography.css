@@ -1,0 +1,47 @@
+.rc-slider-track {
+  background-color: #DBCCEC;
+}
+
+.rc-slider-dot-active {  
+  border-color: #DBCCEC;
+  border: solid 2px #DBCCEC;
+}
+
+.rc-slider-handle {
+  background-color: #F5F2FA;
+  border-color: #DBCCEC;
+  border: solid 2px #DBCCEC
+}
+
+.rc.slider-handle:hover {
+  border-color: red;
+}
+
+.rc.slider-handle-active:active {
+  box-shadow: 5px red;
+  border-color: red;
+}
+
+.rc-slider-rail {
+    position: absolute;
+    width: 100%;
+    background-color: #F5F2FA;
+    height: 4px;
+    border-radius: 6px;
+}
+
+.rc-slider-step {
+    position: absolute;
+    width: 100%;
+    height: 4px;
+    background: transparent;
+}
+
+rc-slider-mark {
+    position: absolute;
+    top: 18px;
+    left: 0;
+    width: 100%;
+    font-size: 12px;
+}
+
