@@ -14,10 +14,11 @@ You can choose a 1-dimension function to fit. You can generate training data cho
 
 Here are pictures to illustrate an example.
 
-<p style="text-align: center;">
 **1/2**
+<p align="center">
+  <img width="460" height="300" src="gifs/DLLgif1.gif">
+</p>
 ![](gifs/DLLgif1.gif)
 
 **2/2**
 ![](gifs/DLLgif2.gif)
-</p>
